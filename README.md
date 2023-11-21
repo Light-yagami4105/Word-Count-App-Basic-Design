@@ -1,4 +1,4 @@
-# Word Count App (Basic Design)
+# Word Count App (Basic Design) JAVA APPLICATION
 
 **Notice: Reference Implementation - Work in Progress**
 
